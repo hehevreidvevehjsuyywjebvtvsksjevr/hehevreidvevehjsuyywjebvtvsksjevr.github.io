@@ -3,7 +3,7 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "24.07.2003"; // Дата рождения
+var birthdate = "24.06.2005"; // Дата рождения
 var fullname = "Дядечко Валерія Євгенівна" // ФИО
 var name = "Валерія" // Имя
 
