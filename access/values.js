@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "24.06.2005"; // Дата рождения
-var fullname = "Дядечко Валерія Євгенівна" // ФИО
+var fullname = "Дядечко Валерія Євгеніївна" // ФИО
 var name = "Валерія" // Имя
 
 // Паспорт
